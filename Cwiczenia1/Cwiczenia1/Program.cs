@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 //pierwsza zmiana
+
+//druga zmiana
